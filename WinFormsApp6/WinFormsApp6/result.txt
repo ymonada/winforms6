@@ -1,0 +1,10 @@
+Point0: 600 190
+Point1: 490 343
+Point2: 400 300
+Point3: 300 30
+Point4: 250 120
+Point5: 228 229
+Point6: 200 130
+Point7: 190 90
+Point8: 178 178
+Point9: 120 240
